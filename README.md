@@ -1,7 +1,8 @@
 # Guilded-Account-Generator
 Guilded Account Generator/Creator Python Requests Threading Fast.
 
-⭐ Releasing 15 stars ig ⭐
+⭐ Releasing: 15 stars ig ⭐
+🧷 Language: Python 3.10.10
 
 🖥️ ScreenShots:
 
@@ -21,3 +22,7 @@ Guilded Account Generator/Creator Python Requests Threading Fast.
 
 Pretty fast, and good.
 May ban ur accounts and ur main account but maybe i'll make bypass soon.
+
+Credits:
+# Some headers from https://github.com/xman213/guilded.gg-gen/blob/main/main.py
+# Some headers and utils from https://github.com/seadhy/Guilded-Account-Creator/blob/main/creator.py
