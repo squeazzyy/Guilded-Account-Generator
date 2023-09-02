@@ -17,6 +17,9 @@
 ![image](https://github.com/squeazzyy/Guilded-Account-Generator/assets/131534225/8535ffdd-b32b-4c3f-9ce3-9aa239c403d9)
 ![image](https://github.com/squeazzyy/Guilded-Account-Generator/assets/131534225/ec1c6749-65f4-4cad-8588-522bbee3a062)
 
+📁 Saving format:
+# Email:Password:Cookie
+
 Credits:
 # Some headers from https://github.com/xman213/guilded.gg-gen/blob/main/main.py
 # Some headers and utils from https://github.com/seadhy/Guilded-Account-Creator/blob/main/creator.py
